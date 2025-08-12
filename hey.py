@@ -1,1 +1,1 @@
-print("this is JP's calculator")
+print("this is a calculator")
